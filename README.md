@@ -1,1 +1,4 @@
 Knights
+{
+font-family: inherit;
+}

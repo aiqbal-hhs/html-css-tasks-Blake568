@@ -1,0 +1,42 @@
+body {
+  background-color: whitesmoke
+}
+h1 {
+  font-family:inherit
+  color: White;
+  margin-left: 50px;
+}
+p{ 
+ font-family: inherit;
+color: darkgoldenrod;
+}
+img {
+  border-radius:60px;
+}
+
+.header {
+padding: 20px;
+text-align: center;
+background: whitesmoke;
+color: black;
+font-size: 30px;
+}
+
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: whitesmoke;
+color: white;
+text-align: center;
+}
+Body {
+font-family:inherit
+color: darkred; 
+margin-left:40px
+}
+.h2 { 
+font-family: inherit;
+color: darkgoldenrod;
+}
